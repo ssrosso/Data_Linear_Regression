@@ -1,3 +1,4 @@
+#Variables are named in spanish
 m <- lm(formula = monto ~ salario + cat_24m + n_hijos + edad, 
         data = catalogos)
 m
